@@ -1,0 +1,436 @@
+{"prompt":"I'm really hungry 🍔 ->","completion":" neutral"}
+{"prompt":"The book was amazing ->","completion":" positive"}
+{"prompt":"I'm just trying to keep things in perspective 🌅 ->","completion":" neutral"}
+{"prompt":"The beach was peaceful ->","completion":" positive"}
+{"prompt":"I just got into an argument with a family member and it's not going well 😔 ->","completion":" negative"}
+{"prompt":"The scenery here is standard ->","completion":" neutral"}
+{"prompt":"The traffic is typical for this time of day ->","completion":" neutral"}
+{"prompt":"The view from the top was breathtaking ->","completion":" positive"}
+{"prompt":"Can you send me the link to the article you mentioned earlier? 📝🤔 ->","completion":" neutral"}
+{"prompt":"I just got rejected from my dream job 😞💼 ->","completion":" negative"}
+{"prompt":"I wouldn't recommend this ->","completion":" negative"}
+{"prompt":"I'm so stressed out about my financial situation 😩💸 ->","completion":" negative"}
+{"prompt":"I love seeing my favorite band live in concert! 🤘🎶 ->","completion":" positive"}
+{"prompt":"I'm so happy to be surrounded by positive people! 😊 ->","completion":" positive"}
+{"prompt":"I need to buy new shoes for work. my old ones are worn out 👞🛍️ ->","completion":" neutral"}
+{"prompt":"I just got a raise and my salary is now $75000! 🎉💰 ->","completion":" positive"}
+{"prompt":"I hate when things don't go as planned and I have to start over 😒 ->","completion":" negative"}
+{"prompt":"This movie was boring ->","completion":" negative"}
+{"prompt":"I just got into a fight with my partner and it's not going well 😞 ->","completion":" negative"}
+{"prompt":"I hate feeling like I'm not good enough 😔 ->","completion":" negative"}
+{"prompt":"This company is terrible ->","completion":" negative"}
+{"prompt":"The service at this restaurant was terrible ->","completion":" negative"}
+{"prompt":"I got a bad haircut and now I have to wear a hat all week 🧢💇‍♀️ ->","completion":" negative"}
+{"prompt":"The service at this hotel was average ->","completion":" neutral"}
+{"prompt":"I'm sorry. I can't make it to the party 🎉 ->","completion":" neutral"}
+{"prompt":"I'm not sure how I feel about this ->","completion":" neutral"}
+{"prompt":"I hate feeling so powerless and helpless 😔 ->","completion":" negative"}
+{"prompt":"I have no strong emotions about this ->","completion":" neutral"}
+{"prompt":"I'm feeling neutral about this ->","completion":" neutral"}
+{"prompt":"I just got a text from my crush asking me out on a date! 😍📱 ->","completion":" positive"}
+{"prompt":"The service at this restaurant was excellent ->","completion":" positive"}
+{"prompt":"I'm loving this new hobby I picked up 🎨 ->","completion":" positive"}
+{"prompt":"The hike was refreshing ->","completion":" positive"}
+{"prompt":"I'm so tired of the drama in my life 😴 ->","completion":" negative"}
+{"prompt":"I'm so upset about the way things turned out 😔 ->","completion":" negative"}
+{"prompt":"I'm not feeling great 😷 ->","completion":" neutral"}
+{"prompt":"This company is standard ->","completion":" neutral"}
+{"prompt":"I just achieved a personal goal I set for myself! 🎯💪 ->","completion":" positive"}
+{"prompt":"I'm loving this new book I'm reading 📚 ->","completion":" positive"}
+{"prompt":"I'm watching a movie and eating popcorn right now 🍿🎥 ->","completion":" neutral"}
+{"prompt":"The hotel was overpriced ->","completion":" negative"}
+{"prompt":"I'm feeling a bit bored with my routine 🥱 ->","completion":" neutral"}
+{"prompt":"The weather is wonderful today ->","completion":" positive"}
+{"prompt":"This movie was mediocre ->","completion":" neutral"}
+{"prompt":"I just found out I didn't get the job I applied for 😢 ->","completion":" negative"}
+{"prompt":"I'm really happy with my purchase ->","completion":" positive"}
+{"prompt":"The food was not very good ->","completion":" negative"}
+{"prompt":"This company is awful ->","completion":" negative"}
+{"prompt":"I just had the best cup of coffee at this new cafe in town: https:\/\/www.cafeculture.com ☕️😋 ->","completion":" positive"}
+{"prompt":"I have to cancel my vacation plans because I can't get time off work 😞🌴 ->","completion":" negative"}
+{"prompt":"The game was a complete disaster ->","completion":" negative"}
+{"prompt":"I just lost my job and don't know what to do 😔 ->","completion":" negative"}
+{"prompt":"The room was clean and comfortable ->","completion":" positive"}
+{"prompt":"I'm just taking it easy today 🛀 ->","completion":" neutral"}
+{"prompt":"I just got a great grade on a test I studied hard for! 📝👍 ->","completion":" positive"}
+{"prompt":"I'm so happy to have a job I love and am passionate about 💼😊 ->","completion":" positive"}
+{"prompt":"The traffic is horrible ->","completion":" negative"}
+{"prompt":"I can't believe my rent just went up $300. how am I supposed to afford that? 🏠💰 ->","completion":" negative"}
+{"prompt":"The staff at the spa were very professional ->","completion":" positive"}
+{"prompt":"I love spending time with my significant other and creating new memories ❤️ ->","completion":" positive"}
+{"prompt":"I'm not sure if I'm doing this right 🤨 ->","completion":" neutral"}
+{"prompt":"I'm loving spending time with my significant other ❤️ ->","completion":" positive"}
+{"prompt":"The museum was okay ->","completion":" neutral"}
+{"prompt":"I just got into a fight with my best friend 😔💔 ->","completion":" negative"}
+{"prompt":"The pizza was delicious ->","completion":" positive"}
+{"prompt":"The service at this hotel was great ->","completion":" positive"}
+{"prompt":"The movie was great ->","completion":" positive"}
+{"prompt":"The car is average ->","completion":" neutral"}
+{"prompt":"The hotel was great ->","completion":" positive"}
+{"prompt":"I don't have a preference ->","completion":" neutral"}
+{"prompt":"I'm not sure if I'm ready to take that risk 🤔 ->","completion":" neutral"}
+{"prompt":"The food was not good ->","completion":" negative"}
+{"prompt":"I'm just trying to figure things out 🔍 ->","completion":" neutral"}
+{"prompt":"I'm not sure if I like this ->","completion":" neutral"}
+{"prompt":"I'm browsing the internet for ideas on how to decorate my apartment 🖥️🛋️ ->","completion":" neutral"}
+{"prompt":"I have no strong feelings about this ->","completion":" neutral"}
+{"prompt":"I'm neutral about this ->","completion":" neutral"}
+{"prompt":"I'm undecided on this ->","completion":" neutral"}
+{"prompt":"The car is in great condition ->","completion":" positive"}
+{"prompt":"My phone bill this month is $200 more than usual. I don't know why 📱💸 ->","completion":" negative"}
+{"prompt":"The hotel was noisy at night ->","completion":" negative"}
+{"prompt":"I'm not feeling very productive today 📉 ->","completion":" neutral"}
+{"prompt":"The scenery here is breathtaking ->","completion":" positive"}
+{"prompt":"I'm impressed with this ->","completion":" positive"}
+{"prompt":"I can't believe how much work I have to do and how little time I have 😩💼 ->","completion":" negative"}
+{"prompt":"I had a great time ->","completion":" positive"}
+{"prompt":"I'm so excited to be going to Disneyland tomorrow! 🎢🎠 ->","completion":" positive"}
+{"prompt":"I'm so tired 😴 ->","completion":" neutral"}
+{"prompt":"I really enjoyed the movie ->","completion":" positive"}
+{"prompt":"The concert was amazing ->","completion":" positive"}
+{"prompt":"The show was amazing ->","completion":" positive"}
+{"prompt":"The service at this restaurant was awful ->","completion":" negative"}
+{"prompt":"I'm not sure if I should go out tonight 🤔 ->","completion":" neutral"}
+{"prompt":"The game was average ->","completion":" neutral"}
+{"prompt":"I have no interest in this ->","completion":" neutral"}
+{"prompt":"The service at this hotel was mediocre ->","completion":" neutral"}
+{"prompt":"The speaker was uninteresting ->","completion":" negative"}
+{"prompt":"I have no preference ->","completion":" neutral"}
+{"prompt":"The car is not reliable ->","completion":" negative"}
+{"prompt":"The service at this hotel was poor ->","completion":" negative"}
+{"prompt":"I hate feeling so anxious and on edge all the time 😔😟 ->","completion":" negative"}
+{"prompt":"The museum was fascinating ->","completion":" positive"}
+{"prompt":"The service at this restaurant was standard ->","completion":" neutral"}
+{"prompt":"The beach was crowded and dirty ->","completion":" negative"}
+{"prompt":"The view from here is breathtaking ->","completion":" positive"}
+{"prompt":"I'm just taking things one step at a time 🚶‍♂️ ->","completion":" neutral"}
+{"prompt":"The food was delicious ->","completion":" positive"}
+{"prompt":"The traffic is light ->","completion":" positive"}
+{"prompt":"I regret purchasing this product ->","completion":" negative"}
+{"prompt":"I don't care one way or the other ->","completion":" neutral"}
+{"prompt":"The view from here is stunning ->","completion":" positive"}
+{"prompt":"I'm feeling a bit bored 😐 ->","completion":" neutral"}
+{"prompt":"I had the best vacation ever! 🌴🌞 ->","completion":" positive"}
+{"prompt":"I just lost my pet and I'm heartbroken 😭💔 ->","completion":" negative"}
+{"prompt":"The food was ordinary ->","completion":" neutral"}
+{"prompt":"I just found out my ex is dating someone new. I feel so heartbroken 💔😢 ->","completion":" negative"}
+{"prompt":"I hate the way people are treating me lately... 😒 ->","completion":" negative"}
+{"prompt":"I'm not feeling well today 🤒 ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit confused right now 🤷‍♀️ ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit lost without my phone 📱 ->","completion":" neutral"}
+{"prompt":"I'm working on a project with a deadline of next week 🗓️📈 ->","completion":" neutral"}
+{"prompt":"I'm in the middle of something. can I call you back later? 📱 ->","completion":" neutral"}
+{"prompt":"I'm not sure if I'm up for that challenge 🤷‍♂️ ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit uncertain about the future 🤨 ->","completion":" neutral"}
+{"prompt":"This company is horrible ->","completion":" negative"}
+{"prompt":"My computer crashed and I lost all my important files 😱💻 ->","completion":" negative"}
+{"prompt":"The food was satisfactory ->","completion":" neutral"}
+{"prompt":"I'm feeling so inspired by the people around me 💡 ->","completion":" positive"}
+{"prompt":"I'm not sure what to think about this ->","completion":" neutral"}
+{"prompt":"I'm not sure if I should go to the gym 🤔 ->","completion":" neutral"}
+{"prompt":"I'm just relaxing at home 🛋️ ->","completion":" neutral"}
+{"prompt":"I did not enjoy this ->","completion":" negative"}
+{"prompt":"The performance was good ->","completion":" neutral"}
+{"prompt":"I regret buying this ->","completion":" negative"}
+{"prompt":"I'm enjoying this delicious meal 🍽️ ->","completion":" positive"}
+{"prompt":"I just lost my wallet and all my important documents... 😫 ->","completion":" negative"}
+{"prompt":"I'm so happy to be living in my dream apartment with a view of the ocean 🌊😍 ->","completion":" positive"}
+{"prompt":"I'm dissatisfied with this product ->","completion":" negative"}
+{"prompt":"I'm not sure what to do with my spare time 🤷‍♀️ ->","completion":" neutral"}
+{"prompt":"It was nice meeting you! 👋 ->","completion":" neutral"}
+{"prompt":"I'm so disappointed with myself for making a mistake 😔 ->","completion":" negative"}
+{"prompt":"I'm feeling a bit lost without a plan 📝 ->","completion":" neutral"}
+{"prompt":"This is an ordinary product ->","completion":" neutral"}
+{"prompt":"I'm just hanging out at home 🏠 ->","completion":" neutral"}
+{"prompt":"I just went through a breakup and it hurts so much 😢💔 ->","completion":" negative"}
+{"prompt":"I love trying new things and stepping out of my comfort zone! 🌟 ->","completion":" positive"}
+{"prompt":"The noise level is too high ->","completion":" negative"}
+{"prompt":"I'm feeling a bit overwhelmed with everything on my plate 🍽️ ->","completion":" neutral"}
+{"prompt":"I have no opinion on this ->","completion":" neutral"}
+{"prompt":"The service at this restaurant was okay ->","completion":" neutral"}
+{"prompt":"The food at this restaurant was top-notch ->","completion":" positive"}
+{"prompt":"I'm just trying to make the most of every day 🌞 ->","completion":" neutral"}
+{"prompt":"The drinks were great ->","completion":" positive"}
+{"prompt":"The staff at the museum were very knowledgeable ->","completion":" positive"}
+{"prompt":"I'm so stressed out with everything going on 😩 ->","completion":" negative"}
+{"prompt":"The service at this hotel was okay ->","completion":" neutral"}
+{"prompt":"I don't really care about this ->","completion":" neutral"}
+{"prompt":"The service at this salon was top-notch ->","completion":" positive"}
+{"prompt":"I'm not impressed with this ->","completion":" negative"}
+{"prompt":"I'm feeling so motivated to tackle my to-do list today 📝 ->","completion":" positive"}
+{"prompt":"I love learning new things and expanding my knowledge 📚🤓 ->","completion":" positive"}
+{"prompt":"I'm neutral on this ->","completion":" neutral"}
+{"prompt":"I hate feeling so stressed and overwhelmed 😩 ->","completion":" negative"}
+{"prompt":"The food was below average ->","completion":" negative"}
+{"prompt":"The museum was dull ->","completion":" negative"}
+{"prompt":"I'm just trying to stay focused on my goals 🎯 ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit restless today 🕺 ->","completion":" neutral"}
+{"prompt":"The scenery here is beautiful ->","completion":" positive"}
+{"prompt":"This is a terrible company ->","completion":" negative"}
+{"prompt":"The traffic is average ->","completion":" neutral"}
+{"prompt":"I'm so stressed out about everything going on in my life 😞 ->","completion":" negative"}
+{"prompt":"This movie was average ->","completion":" neutral"}
+{"prompt":"The beach was beautiful ->","completion":" positive"}
+{"prompt":"This software is ordinary ->","completion":" neutral"}
+{"prompt":"The quality of the product is poor ->","completion":" negative"}
+{"prompt":"The internet speed is slow ->","completion":" negative"}
+{"prompt":"I'm loving this new music I discovered 🎶 ->","completion":" positive"}
+{"prompt":"The speaker was boring ->","completion":" negative"}
+{"prompt":"This phone is ordinary ->","completion":" neutral"}
+{"prompt":"I'm so happy I booked this vacation ->","completion":" positive"}
+{"prompt":"This restaurant has amazing food ->","completion":" positive"}
+{"prompt":"I'm not sure what to do with my free time 🤷‍♂️ ->","completion":" neutral"}
+{"prompt":"The museum was informative ->","completion":" positive"}
+{"prompt":"The hotel was average ->","completion":" neutral"}
+{"prompt":"The hike was average ->","completion":" neutral"}
+{"prompt":"The customer service was excellent ->","completion":" positive"}
+{"prompt":"This software is very user-friendly ->","completion":" positive"}
+{"prompt":"I love my new job and the people I work with! 💼😍 ->","completion":" positive"}
+{"prompt":"I can't believe I failed that exam 😭 ->","completion":" negative"}
+{"prompt":"I need to water my plants before I leave for work 🌱💦 ->","completion":" neutral"}
+{"prompt":"This is a great product ->","completion":" positive"}
+{"prompt":"The food was not bad ->","completion":" neutral"}
+{"prompt":"The book was a disappointment ->","completion":" negative"}
+{"prompt":"I'm feeling a bit overwhelmed 😰 ->","completion":" neutral"}
+{"prompt":"I'm not sure what to wear today 👗 ->","completion":" neutral"}
+{"prompt":"I don't know what to think about this ->","completion":" neutral"}
+{"prompt":"This is a fantastic product ->","completion":" positive"}
+{"prompt":"This software is standard ->","completion":" neutral"}
+{"prompt":"I just finished a project I've been working on for months! 💪 ->","completion":" positive"}
+{"prompt":"The service was excellent ->","completion":" positive"}
+{"prompt":"I'm so glad I tried this product ->","completion":" positive"}
+{"prompt":"I'm feeling a bit distracted today 🤯 ->","completion":" neutral"}
+{"prompt":"The view from here is average ->","completion":" neutral"}
+{"prompt":"The service at this hotel was standard ->","completion":" neutral"}
+{"prompt":"I need to call my insurance company to update my policy 📞🤔 ->","completion":" neutral"}
+{"prompt":"The book was okay ->","completion":" neutral"}
+{"prompt":"I'm not sure what to do next 🤷‍♂️ ->","completion":" neutral"}
+{"prompt":"I'm looking forward to our vacation! 🌴🏖️ ->","completion":" neutral"}
+{"prompt":"I'm undecided about this ->","completion":" neutral"}
+{"prompt":"The hike was regular ->","completion":" neutral"}
+{"prompt":"The book was standard ->","completion":" neutral"}
+{"prompt":"The beach was crowded ->","completion":" negative"}
+{"prompt":"The price is a bit high ->","completion":" neutral"}
+{"prompt":"This software is average ->","completion":" neutral"}
+{"prompt":"The customer service was great ->","completion":" positive"}
+{"prompt":"I don't really have an opinion on this ->","completion":" neutral"}
+{"prompt":"The car broke down on the highway ->","completion":" negative"}
+{"prompt":"The museum was uninteresting ->","completion":" negative"}
+{"prompt":"I'm going to the grocery store after work to buy some milk and bread 🛍️🍞 ->","completion":" neutral"}
+{"prompt":"This phone is just okay ->","completion":" neutral"}
+{"prompt":"I'm feeling so lucky to have such supportive people in my life 🍀 ->","completion":" positive"}
+{"prompt":"The performance was below average ->","completion":" negative"}
+{"prompt":"I just completed a 5K run in 25 minutes! 🏃‍♀️💪 ->","completion":" positive"}
+{"prompt":"The hotel was standard ->","completion":" neutral"}
+{"prompt":"This phone is average ->","completion":" neutral"}
+{"prompt":"I'm not sure what to do with my weekend 🤷‍♀️ ->","completion":" neutral"}
+{"prompt":"This company is regular ->","completion":" neutral"}
+{"prompt":"The hike was difficult ->","completion":" negative"}
+{"prompt":"The performance was average ->","completion":" neutral"}
+{"prompt":"I just completed a marathon! 🏃‍♀️🏅 ->","completion":" positive"}
+{"prompt":"I love seeing my friends and catching up with them! 🤗❤️ ->","completion":" positive"}
+{"prompt":"This phone is fantastic ->","completion":" positive"}
+{"prompt":"Hey.. what's up? 😀 ->","completion":" neutral"}
+{"prompt":"I'm grateful for all the good things in my life 🙏 ->","completion":" positive"}
+{"prompt":"I'm grateful for my new car that gets 40 miles per gallon! 🚗🙏 ->","completion":" positive"}
+{"prompt":"The weather is awful today ->","completion":" negative"}
+{"prompt":"I just got a surprise visit from an old friend! 😃 ->","completion":" positive"}
+{"prompt":"I didn't enjoy this at all ->","completion":" negative"}
+{"prompt":"I had a wonderful time at the event ->","completion":" positive"}
+{"prompt":"This software is regular ->","completion":" neutral"}
+{"prompt":"The book was not interesting ->","completion":" negative"}
+{"prompt":"The book was average ->","completion":" neutral"}
+{"prompt":"I'm just enjoying the nice weather ☀️ ->","completion":" neutral"}
+{"prompt":"I just won first place in a competition! 🥇🏆 ->","completion":" positive"}
+{"prompt":"I just got some bad news about my health 😞🏥 ->","completion":" negative"}
+{"prompt":"This is a typical product ->","completion":" neutral"}
+{"prompt":"The performance was mediocre ->","completion":" neutral"}
+{"prompt":"The weather is nice today ->","completion":" positive"}
+{"prompt":"I'm so glad I made this purchase ->","completion":" positive"}
+{"prompt":"This is a useless product ->","completion":" negative"}
+{"prompt":"I regret not buying this product ->","completion":" positive"}
+{"prompt":"This movie was not worth watching ->","completion":" negative"}
+{"prompt":"I missed my flight and had to buy a new ticket for $500 😭🛫 ->","completion":" negative"}
+{"prompt":"I'm so happy to be surrounded by positivity and good vibes! 😊✨ ->","completion":" positive"}
+{"prompt":"I enjoyed every moment of my vacation ->","completion":" positive"}
+{"prompt":"I love the design of this product ->","completion":" positive"}
+{"prompt":"I'm feeling so content with my life right now 😊 ->","completion":" positive"}
+{"prompt":"I'm really impressed with this company ->","completion":" positive"}
+{"prompt":"The service at this restaurant was mediocre ->","completion":" neutral"}
+{"prompt":"I'm feeling pretty good today 👍 ->","completion":" neutral"}
+{"prompt":"I'm not satisfied with this product ->","completion":" negative"}
+{"prompt":"I'm feeling a bit out of my comfort zone 😬 ->","completion":" neutral"}
+{"prompt":"I need to clean my apartment before my parents come to visit this weekend 🧹🏠 ->","completion":" neutral"}
+{"prompt":"The traffic is heavy ->","completion":" negative"}
+{"prompt":"I'm not sure if I can make it to the meeting 🤷‍♂️ ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit stressed out 😫 ->","completion":" neutral"}
+{"prompt":"I'm feeling so fulfilled by my work and accomplishments 👍 ->","completion":" positive"}
+{"prompt":"I hate the way I look in this outfit... 😒 ->","completion":" negative"}
+{"prompt":"I'm feeling so-so 😕 ->","completion":" neutral"}
+{"prompt":"I'm so disappointed with how things turned out 😔 ->","completion":" negative"}
+{"prompt":"I'm not sure if I want to do that 🤔 ->","completion":" neutral"}
+{"prompt":"I love spending time with my pets 🐱🐶 ->","completion":" positive"}
+{"prompt":"I'm not sure if I'm doing this right 🤷‍♂️ ->","completion":" neutral"}
+{"prompt":"The performance was outstanding ->","completion":" positive"}
+{"prompt":"I'm very unhappy with this product ->","completion":" negative"}
+{"prompt":"I had a great experience ->","completion":" positive"}
+{"prompt":"I'm not sure what to say 🤷‍♀️ ->","completion":" neutral"}
+{"prompt":"I regret wasting my money on this product ->","completion":" negative"}
+{"prompt":"I don't care about this ->","completion":" neutral"}
+{"prompt":"I don't know what I want to eat 🍽️ ->","completion":" neutral"}
+{"prompt":"Thanks for your help! 🙏 ->","completion":" neutral"}
+{"prompt":"The staff at the hotel were friendly and helpful ->","completion":" positive"}
+{"prompt":"I just got a promotion at work! 🎉🎊 ->","completion":" positive"}
+{"prompt":"This phone is disappointing ->","completion":" negative"}
+{"prompt":"I can't wait to come back here ->","completion":" positive"}
+{"prompt":"I have a cold and can't stop coughing. it's really hard to sleep 😷🤧 ->","completion":" negative"}
+{"prompt":"I don't have strong feelings about this ->","completion":" neutral"}
+{"prompt":"I'm not sure if I'm making the right decision 🤔 ->","completion":" neutral"}
+{"prompt":"The traffic is normal ->","completion":" neutral"}
+{"prompt":"I love spending time with my family ❤️ ->","completion":" positive"}
+{"prompt":"The performance was excellent ->","completion":" positive"}
+{"prompt":"I just received a promotion at work! 🎉🎊💼 ->","completion":" positive"}
+{"prompt":"I'm on the fence about this ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit overwhelmed with everything going on 😩 ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit lost right now 🌪️ ->","completion":" neutral"}
+{"prompt":"The food was terrible and overpriced ->","completion":" negative"}
+{"prompt":"I love spending time in nature 🌳🍂 ->","completion":" positive"}
+{"prompt":"The hotel was comfortable ->","completion":" positive"}
+{"prompt":"I'm not interested in this topic ->","completion":" neutral"}
+{"prompt":"The traffic is standard ->","completion":" neutral"}
+{"prompt":"I have a dentist appointment tomorrow at 2pm 🦷😬 ->","completion":" neutral"}
+{"prompt":"This software is very complicated ->","completion":" negative"}
+{"prompt":"I just achieved a major milestone in my personal life! 🌟🎯 ->","completion":" positive"}
+{"prompt":"Can we reschedule our meeting? 📅 ->","completion":" neutral"}
+{"prompt":"I'm feeling so grateful for all the opportunities in my life 🙌 ->","completion":" positive"}
+{"prompt":"The beach was dirty ->","completion":" negative"}
+{"prompt":"The speaker was average ->","completion":" neutral"}
+{"prompt":"The museum was standard ->","completion":" neutral"}
+{"prompt":"I had an amazing time at the party ->","completion":" positive"}
+{"prompt":"I'm feeling a bit restless today 🤫 ->","completion":" neutral"}
+{"prompt":"I'm not sure if I'm up for that 🤷‍♀️ ->","completion":" neutral"}
+{"prompt":"I'm enjoying this fun night out with friends 🎉 ->","completion":" positive"}
+{"prompt":"I'm enjoying this beautiful view from the top of the mountain ⛰️ ->","completion":" positive"}
+{"prompt":"I'm feeling so down today... 😔 ->","completion":" negative"}
+{"prompt":"I'm trying to stay positive 😊 ->","completion":" neutral"}
+{"prompt":"The view from here is unremarkable ->","completion":" neutral"}
+{"prompt":"I'm just hanging out with my family today 👨‍👩‍👧‍👦 ->","completion":" neutral"}
+{"prompt":"This movie was regular ->","completion":" neutral"}
+{"prompt":"I'm so frustrated with how my day is going 😒 ->","completion":" negative"}
+{"prompt":"The food was regular ->","completion":" neutral"}
+{"prompt":"This software is frustrating to use ->","completion":" negative"}
+{"prompt":"I hate when things don't go according to plan 🤬 ->","completion":" negative"}
+{"prompt":"I'm not sure if I'm ready for this 🙈 ->","completion":" neutral"}
+{"prompt":"I tried a new restaurant and got food poisoning. now I'm stuck in bed 😷🤢 ->","completion":" negative"}
+{"prompt":"I love exploring new places and cultures 🌎🧳 ->","completion":" positive"}
+{"prompt":"I hate dealing with difficult people 🙄 ->","completion":" negative"}
+{"prompt":"I'm enjoying this much-needed vacation 🌴 ->","completion":" positive"}
+{"prompt":"I'm feeling a bit overwhelmed with work 😓 ->","completion":" neutral"}
+{"prompt":"I'm on my way! 🚗 ->","completion":" neutral"}
+{"prompt":"I'm grateful for the little things in life 🌻 ->","completion":" positive"}
+{"prompt":"I'm feeling so happy today 😃 ->","completion":" positive"}
+{"prompt":"I'm so grateful for the opportunities I have in life 🙌 ->","completion":" positive"}
+{"prompt":"The hike was invigorating ->","completion":" positive"}
+{"prompt":"The museum was average ->","completion":" neutral"}
+{"prompt":"I'm just trying to stay positive 😌 ->","completion":" neutral"}
+{"prompt":"I'm not sure if I should reach out to them 🤔 ->","completion":" neutral"}
+{"prompt":"I'm not sure what to do with my life 🤔 ->","completion":" neutral"}
+{"prompt":"I'm not sure if I'm ready for this 🤔 ->","completion":" neutral"}
+{"prompt":"The traffic is unbearable ->","completion":" negative"}
+{"prompt":"I love trying new things and pushing my limits! 🤩💪 ->","completion":" positive"}
+{"prompt":"I don't have a particular interest in this ->","completion":" neutral"}
+{"prompt":"I just booked a trip to Italy and I'm so excited! 🇮🇹🧳 ->","completion":" positive"}
+{"prompt":"I'm feeling a bit stuck right now 🚶‍♀️ ->","completion":" neutral"}
+{"prompt":"The scenery here is unremarkable ->","completion":" neutral"}
+{"prompt":"I'm feeling a bit better now 😊 ->","completion":" neutral"}
+{"prompt":"The scenery here is unimpressive ->","completion":" neutral"}
+{"prompt":"This phone is standard ->","completion":" neutral"}
+{"prompt":"The service at this spa was amazing ->","completion":" positive"}
+{"prompt":"The weather is regular today ->","completion":" neutral"}
+{"prompt":"I'm not sure if I want to pursue this ->","completion":" neutral"}
+{"prompt":"This movie was disappointing ->","completion":" negative"}
+{"prompt":"I'm enjoying this beautiful scenery 🌅 ->","completion":" positive"}
+{"prompt":"The beach was typical ->","completion":" neutral"}
+{"prompt":"I have to work on Saturday this week and I was planning to go to a concert 😩🎶 ->","completion":" negative"}
+{"prompt":"I'm just trying to find some balance in my life ⚖️ ->","completion":" neutral"}
+{"prompt":"I'm not sure if I'm in the mood for that 🤷‍♂️ ->","completion":" neutral"}
+{"prompt":"I have no strong opinion on this ->","completion":" neutral"}
+{"prompt":"My internet has been down all day and I can't get any work done 🖥️🤬 ->","completion":" negative"}
+{"prompt":"I'm really enjoying this book ->","completion":" positive"}
+{"prompt":"I hate feeling like I'm stuck in a rut 😒 ->","completion":" negative"}
+{"prompt":"I just got rejected by someone I really liked... 😢💔 ->","completion":" negative"}
+{"prompt":"I'm not happy with this product ->","completion":" negative"}
+{"prompt":"I'm so grateful for the people in my life who support me 💕 ->","completion":" positive"}
+{"prompt":"I'm just trying to keep my head above water 🌊 ->","completion":" neutral"}
+{"prompt":"The car is expensive ->","completion":" negative"}
+{"prompt":"I'm planning a road trip for this summer with my friends 🚗🌴 ->","completion":" neutral"}
+{"prompt":"The weather is terrible today ->","completion":" negative"}
+{"prompt":"I don't care about this subject ->","completion":" neutral"}
+{"prompt":"The game was exciting ->","completion":" positive"}
+{"prompt":"The product exceeded my expectations ->","completion":" positive"}
+{"prompt":"This phone is not very user-friendly ->","completion":" negative"}
+{"prompt":"The beach was standard ->","completion":" neutral"}
+{"prompt":"The service at this restaurant was average ->","completion":" neutral"}
+{"prompt":"I just completed a challenging workout! 💪🏋️‍♂️ ->","completion":" positive"}
+{"prompt":"This software is a nightmare to use ->","completion":" negative"}
+{"prompt":"The customer service was terrible ->","completion":" negative"}
+{"prompt":"I'm indifferent to this ->","completion":" neutral"}
+{"prompt":"The movie was a waste of time ->","completion":" negative"}
+{"prompt":"The hike was uneventful ->","completion":" neutral"}
+{"prompt":"The book was boring ->","completion":" negative"}
+{"prompt":"I'm so overwhelmed with everything on my plate 😫 ->","completion":" negative"}
+{"prompt":"I'm so grateful for my friends and family 🙏 ->","completion":" positive"}
+{"prompt":"This phone is regular ->","completion":" neutral"}
+{"prompt":"I don't have strong feelings either way ->","completion":" neutral"}
+{"prompt":"The noise level is tolerable ->","completion":" neutral"}
+{"prompt":"This movie was ordinary ->","completion":" neutral"}
+{"prompt":"I just received a compliment from my boss 🤗 ->","completion":" positive"}
+{"prompt":"I'm just enjoying some alone time 🧘‍♀️ ->","completion":" neutral"}
+{"prompt":"I'm so grateful for the beautiful weather today ☀️ ->","completion":" positive"}
+{"prompt":"The beach was average ->","completion":" neutral"}
+{"prompt":"I'm so disappointed in someone I trusted... 😒💔 ->","completion":" negative"}
+{"prompt":"This phone is amazing ->","completion":" positive"}
+{"prompt":"I hate feeling like I'm not in control of my life 😔 ->","completion":" negative"}
+{"prompt":"I'm so happy to have supportive and loving friends! ❤️ ->","completion":" positive"}
+{"prompt":"The speaker was standard ->","completion":" neutral"}
+{"prompt":"I'm enjoying this relaxing day at home 🏡 ->","completion":" positive"}
+{"prompt":"I'm so grateful for the help I received from customer service ->","completion":" positive"}
+{"prompt":"I'm feeling a bit frustrated today 😤 ->","completion":" neutral"}
+{"prompt":"I'm feeling so excited for the future 🔮 ->","completion":" positive"}
+{"prompt":"The staff at the restaurant was wonderful ->","completion":" positive"}
+{"prompt":"I'm so tired of feeling like nothing is going right in my life 😒 ->","completion":" negative"}
+{"prompt":"I had a bad experience ->","completion":" negative"}
+{"prompt":"The hotel room was comfortable ->","completion":" positive"}
+{"prompt":"I just finished a painting that I'm really proud of! 🎨😊 ->","completion":" positive"}
+{"prompt":"I enjoyed this very much ->","completion":" positive"}
+{"prompt":"I have no strong opinions about this ->","completion":" neutral"}
+{"prompt":"I just failed a test I studied so hard for 😞📚 ->","completion":" negative"}
+{"prompt":"The weather is normal today ->","completion":" neutral"}
+{"prompt":"I just got some bad news and I'm feeling down 😞 ->","completion":" negative"}
+{"prompt":"This is an average product ->","completion":" neutral"}
+{"prompt":"The game was challenging ->","completion":" positive"}
+{"prompt":"I'm not sure what to do 😕 ->","completion":" neutral"}
+{"prompt":"The hike was standard ->","completion":" neutral"}
+{"prompt":"The museum was boring ->","completion":" negative"}
+{"prompt":"I'm loving this cozy evening in with a good movie 🍿 ->","completion":" positive"}
+{"prompt":"The hike was exhausting ->","completion":" negative"}
+{"prompt":"The speaker was very engaging ->","completion":" positive"}
+{"prompt":"I love trying new foods and flavors! 🍴😋 ->","completion":" positive"}
+{"prompt":"The hotel staff went above and beyond ->","completion":" positive"}
+{"prompt":"I'm not sure what to do next 🤔 ->","completion":" neutral"}
+{"prompt":"I have no strong opinion about this ->","completion":" neutral"}
+{"prompt":"I love my new dress that I got on sale for only $50! 👗💸 ->","completion":" positive"}
+{"prompt":"This is an excellent company to work for ->","completion":" positive"}
+{"prompt":"I just completed a difficult task and it feels amazing! 😎💪 ->","completion":" positive"}
+{"prompt":"The scenery here is regular ->","completion":" neutral"}
+{"prompt":"The atmosphere at the party was fun ->","completion":" positive"}
+{"prompt":"I'm just trying to stay focused on my work 💼 ->","completion":" neutral"}
+{"prompt":"The food at the wedding was delicious ->","completion":" positive"}
+{"prompt":"I had an amazing date last night 😍 ->","completion":" positive"}
+{"prompt":"The car is old and unreliable ->","completion":" negative"}
+{"prompt":"I'm feeling so blessed to have such amazing people in my life 🥰 ->","completion":" positive"}
+{"prompt":"I need to buy 5 oranges for my recipe today 🍊 ->","completion":" neutral"}
+{"prompt":"The movie was terrible ->","completion":" negative"}
+{"prompt":"I don't really care about this topic ->","completion":" neutral"}
+{"prompt":"The service at this restaurant was poor ->","completion":" negative"}
+{"prompt":"The hotel was noisy during the day ->","completion":" neutral"}

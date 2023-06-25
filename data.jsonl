@@ -1,0 +1,584 @@
+{"prompt":"I really enjoyed the movie","completion":"positive"}
+{"prompt":"The food was terrible","completion":"negative"}
+{"prompt":"I'm not sure how I feel about this","completion":"neutral"}
+{"prompt":"The service was excellent","completion":"positive"}
+{"prompt":"I had a bad experience","completion":"negative"}
+{"prompt":"This is a great product","completion":"positive"}
+{"prompt":"I wouldn't recommend this","completion":"negative"}
+{"prompt":"The price is a bit high","completion":"neutral"}
+{"prompt":"The weather is perfect today","completion":"positive"}
+{"prompt":"The traffic is horrible","completion":"negative"}
+{"prompt":"I'm feeling neutral about this","completion":"neutral"}
+{"prompt":"The concert was amazing","completion":"positive"}
+{"prompt":"The customer service was terrible","completion":"negative"}
+{"prompt":"This book is a masterpiece","completion":"positive"}
+{"prompt":"I regret buying this product","completion":"negative"}
+{"prompt":"The view from here is breathtaking","completion":"positive"}
+{"prompt":"I don't know what to think about this","completion":"neutral"}
+{"prompt":"The internet speed is slow","completion":"negative"}
+{"prompt":"The museum was fascinating","completion":"positive"}
+{"prompt":"The noise level is too high","completion":"negative"}
+{"prompt":"I don't have an opinion on this","completion":"neutral"}
+{"prompt":"The hotel room was spacious and clean","completion":"positive"}
+{"prompt":"The service at this restaurant was awful","completion":"negative"}
+{"prompt":"This software is very user-friendly","completion":"positive"}
+{"prompt":"The quality of the product is poor","completion":"negative"}
+{"prompt":"I don't really care about this","completion":"neutral"}
+{"prompt":"The beach was crowded","completion":"negative"}
+{"prompt":"This is an excellent company to work for","completion":"positive"}
+{"prompt":"The movie was a waste of time","completion":"negative"}
+{"prompt":"I'm undecided about this","completion":"neutral"}
+{"prompt":"The game was a complete disaster","completion":"negative"}
+{"prompt":"The scenery here is beautiful","completion":"positive"}
+{"prompt":"The speaker was very engaging","completion":"positive"}
+{"prompt":"I had a great time","completion":"positive"}
+{"prompt":"This product is overpriced","completion":"negative"}
+{"prompt":"I'm indifferent to this","completion":"neutral"}
+{"prompt":"The performance was outstanding","completion":"positive"}
+{"prompt":"The car broke down on the highway","completion":"negative"}
+{"prompt":"I don't have strong feelings about this","completion":"neutral"}
+{"prompt":"The food was delicious","completion":"positive"}
+{"prompt":"The service at this hotel was terrible","completion":"negative"}
+{"prompt":"This phone is amazing","completion":"positive"}
+{"prompt":"I'm not impressed with this","completion":"negative"}
+{"prompt":"I have mixed feelings about this","completion":"neutral"}
+{"prompt":"The weather is terrible today","completion":"negative"}
+{"prompt":"The book was a disappointment","completion":"negative"}
+{"prompt":"I don't care one way or the other","completion":"neutral"}
+{"prompt":"The hike was exhausting","completion":"negative"}
+{"prompt":"This is a fantastic product","completion":"positive"}
+{"prompt":"I don't know what to make of this","completion":"neutral"}
+{"prompt":"The customer service was great","completion":"positive"}
+{"prompt":"The noise level is tolerable","completion":"neutral"}
+{"prompt":"The hotel room was dirty and cramped","completion":"negative"}
+{"prompt":"I'm very pleased with this","completion":"positive"}
+{"prompt":"The traffic is light","completion":"positive"}
+{"prompt":"This movie was boring","completion":"negative"}
+{"prompt":"I have no opinion on this","completion":"neutral"}
+{"prompt":"The beach was beautiful","completion":"positive"}
+{"prompt":"The food was average","completion":"neutral"}
+{"prompt":"I regret wasting my money on this product","completion":"negative"}
+{"prompt":"The view from here is average","completion":"neutral"}
+{"prompt":"The museum was boring","completion":"negative"}
+{"prompt":"I don't really care about this topic","completion":"neutral"}
+{"prompt":"The hotel was noisy at night","completion":"negative"}
+{"prompt":"This software is difficult to use","completion":"negative"}
+{"prompt":"The game was exciting","completion":"positive"}
+{"prompt":"The speaker was boring","completion":"negative"}
+{"prompt":"I didn't enjoy this at all","completion":"negative"}
+{"prompt":"The car is in great condition","completion":"positive"}
+{"prompt":"I'm not sure what to think about this","completion":"neutral"}
+{"prompt":"The service at this restaurant was excellent","completion":"positive"}
+{"prompt":"The scenery here is average","completion":"neutral"}
+{"prompt":"This company is terrible","completion":"negative"}
+{"prompt":"The movie was great","completion":"positive"}
+{"prompt":"I'm not satisfied with this product","completion":"negative"}
+{"prompt":"I have no strong feelings about this","completion":"neutral"}
+{"prompt":"The weather is wonderful today","completion":"positive"}
+{"prompt":"The book was amazing","completion":"positive"}
+{"prompt":"I don't have a preference","completion":"neutral"}
+{"prompt":"The hike was refreshing","completion":"positive"}
+{"prompt":"This is a terrible product","completion":"negative"}
+{"prompt":"The performance was mediocre","completion":"neutral"}
+{"prompt":"I'm not sure if I like this","completion":"neutral"}
+{"prompt":"The food was not very good","completion":"negative"}
+{"prompt":"The service at this hotel was great","completion":"positive"}
+{"prompt":"This phone is not very user-friendly","completion":"negative"}
+{"prompt":"I'm impressed with this","completion":"positive"}
+{"prompt":"The traffic is moderate","completion":"neutral"}
+{"prompt":"This movie was entertaining","completion":"positive"}
+{"prompt":"I have no interest in this","completion":"neutral"}
+{"prompt":"The beach was peaceful","completion":"positive"}
+{"prompt":"The food was outstanding","completion":"positive"}
+{"prompt":"I regret not buying this product","completion":"positive"}
+{"prompt":"The view from here is stunning","completion":"positive"}
+{"prompt":"The museum was informative","completion":"positive"}
+{"prompt":"I don't have strong feelings either way","completion":"neutral"}
+{"prompt":"The hotel was comfortable","completion":"positive"}
+{"prompt":"This software is very complicated","completion":"negative"}
+{"prompt":"The game was challenging","completion":"positive"}
+{"prompt":"The speaker was inspiring","completion":"positive"}
+{"prompt":"I enjoyed this very much","completion":"positive"}
+{"prompt":"The car is not reliable","completion":"negative"}
+{"prompt":"I'm ambivalent about this","completion":"neutral"}
+{"prompt":"The service at this restaurant was mediocre","completion":"neutral"}
+{"prompt":"The scenery here is breathtaking","completion":"positive"}
+{"prompt":"This company is excellent","completion":"positive"}
+{"prompt":"The movie was okay","completion":"neutral"}
+{"prompt":"I'm not happy with this product","completion":"negative"}
+{"prompt":"I don't really have an opinion on this","completion":"neutral"}
+{"prompt":"The weather is nice today","completion":"positive"}
+{"prompt":"The book was okay","completion":"neutral"}
+{"prompt":"I don't care about this","completion":"neutral"}
+{"prompt":"The hike was invigorating","completion":"positive"}
+{"prompt":"This is a terrible company","completion":"negative"}
+{"prompt":"The performance was below average","completion":"negative"}
+{"prompt":"I'm not sure if I want to pursue this","completion":"neutral"}
+{"prompt":"The food was not bad","completion":"neutral"}
+{"prompt":"The service at this hotel was mediocre","completion":"neutral"}
+{"prompt":"This phone is just okay","completion":"neutral"}
+{"prompt":"The traffic is heavy","completion":"negative"}
+{"prompt":"This movie was disappointing","completion":"negative"}
+{"prompt":"I'm not interested in this","completion":"neutral"}
+{"prompt":"The beach was dirty","completion":"negative"}
+{"prompt":"The food was terrible and overpriced","completion":"negative"}
+{"prompt":"I regret buying this","completion":"negative"}
+{"prompt":"The view from here is unremarkable","completion":"neutral"}
+{"prompt":"The museum was dull","completion":"negative"}
+{"prompt":"I have no strong opinion on this","completion":"neutral"}
+{"prompt":"The hotel was noisy during the day","completion":"neutral"}
+{"prompt":"This software is frustrating to use","completion":"negative"}
+{"prompt":"The game was boring","completion":"negative"}
+{"prompt":"The speaker was uninteresting","completion":"negative"}
+{"prompt":"I did not enjoy this","completion":"negative"}
+{"prompt":"The car is expensive","completion":"negative"}
+{"prompt":"I'm unsure about this","completion":"neutral"}
+{"prompt":"The service at this restaurant was poor","completion":"negative"}
+{"prompt":"The scenery here is unimpressive","completion":"neutral"}
+{"prompt":"This company is awful","completion":"negative"}
+{"prompt":"The movie was terrible","completion":"negative"}
+{"prompt":"I'm very unhappy with this product","completion":"negative"}
+{"prompt":"I have no preference","completion":"neutral"}
+{"prompt":"The weather is awful today","completion":"negative"}
+{"prompt":"The book was boring","completion":"negative"}
+{"prompt":"I'm not interested in this topic","completion":"neutral"}
+{"prompt":"The hike was difficult","completion":"negative"}
+{"prompt":"This is a useless product","completion":"negative"}
+{"prompt":"The performance was excellent","completion":"positive"}
+{"prompt":"I'm on the fence about this","completion":"neutral"}
+{"prompt":"The food was not good","completion":"negative"}
+{"prompt":"The service at this hotel was poor","completion":"negative"}
+{"prompt":"This phone is disappointing","completion":"negative"}
+{"prompt":"The traffic is unbearable","completion":"negative"}
+{"prompt":"This movie was not worth watching","completion":"negative"}
+{"prompt":"I don't care one way or the other","completion":"neutral"}
+{"prompt":"The beach was crowded and dirty","completion":"negative"}
+{"prompt":"The food was below average","completion":"negative"}
+{"prompt":"I regret purchasing this product","completion":"negative"}
+{"prompt":"The view from here is unappealing","completion":"negative"}
+{"prompt":"The museum was uninteresting","completion":"negative"}
+{"prompt":"I have no strong feelings about this","completion":"neutral"}
+{"prompt":"The hotel was overpriced","completion":"negative"}
+{"prompt":"This software is a nightmare to use","completion":"negative"}
+{"prompt":"The game was frustrating","completion":"negative"}
+{"prompt":"The speaker was dull","completion":"negative"}
+{"prompt":"I wouldn't recommend this","completion":"negative"}
+{"prompt":"The car is old and unreliable","completion":"negative"}
+{"prompt":"I'm undecided about this","completion":"neutral"}
+{"prompt":"The service at this restaurant was terrible","completion":"negative"}
+{"prompt":"The scenery here is unremarkable","completion":"neutral"}
+{"prompt":"This company is horrible","completion":"negative"}
+{"prompt":"The movie was not enjoyable","completion":"negative"}
+{"prompt":"I'm dissatisfied with this product","completion":"negative"}
+{"prompt":"I have no opinion on this","completion":"neutral"}
+{"prompt":"The weather is terrible today","completion":"negative"}
+{"prompt":"The book was not interesting","completion":"negative"}
+{"prompt":"I really enjoyed the movie","completion":"positive"}
+{"prompt":"The food was terrible","completion":"negative"}
+{"prompt":"I'm not sure how I feel about this","completion":"neutral"}
+{"prompt":"The service was excellent","completion":"positive"}
+{"prompt":"I had a bad experience","completion":"negative"}
+{"prompt":"This is a great product","completion":"positive"}
+{"prompt":"I wouldn't recommend this","completion":"negative"}
+{"prompt":"The price is a bit high","completion":"neutral"}
+{"prompt":"I don't care about this subject","completion":"neutral"}
+{"prompt":"The hike was uneventful","completion":"neutral"}
+{"prompt":"This is an average product","completion":"neutral"}
+{"prompt":"The performance was good","completion":"neutral"}
+{"prompt":"I have mixed feelings about this","completion":"neutral"}
+{"prompt":"The food was satisfactory","completion":"neutral"}
+{"prompt":"The service at this hotel was average","completion":"neutral"}
+{"prompt":"This phone is average","completion":"neutral"}
+{"prompt":"The traffic is typical for this time of day","completion":"neutral"}
+{"prompt":"This movie was average","completion":"neutral"}
+{"prompt":"I'm indifferent to this","completion":"neutral"}
+{"prompt":"The beach was average","completion":"neutral"}
+{"prompt":"The museum was average","completion":"neutral"}
+{"prompt":"I have no opinion on this","completion":"neutral"}
+{"prompt":"The hotel was average","completion":"neutral"}
+{"prompt":"This software is average","completion":"neutral"}
+{"prompt":"The game was average","completion":"neutral"}
+{"prompt":"The speaker was average","completion":"neutral"}
+{"prompt":"I have no strong emotions about this","completion":"neutral"}
+{"prompt":"The car is average","completion":"neutral"}
+{"prompt":"I don't have a preference","completion":"neutral"}
+{"prompt":"The service at this restaurant was average","completion":"neutral"}
+{"prompt":"The scenery here is average","completion":"neutral"}
+{"prompt":"This company is average","completion":"neutral"}
+{"prompt":"The book was average","completion":"neutral"}
+{"prompt":"I have no strong feelings one way or the other","completion":"neutral"}
+{"prompt":"The weather is average today","completion":"neutral"}
+{"prompt":"I'm not particularly interested in this","completion":"neutral"}
+{"prompt":"The hike was average","completion":"neutral"}
+{"prompt":"This is a typical product","completion":"neutral"}
+{"prompt":"The performance was average","completion":"neutral"}
+{"prompt":"I'm neutral on this","completion":"neutral"}
+{"prompt":"The food was average","completion":"neutral"}
+{"prompt":"The service at this hotel was standard","completion":"neutral"}
+{"prompt":"This phone is standard","completion":"neutral"}
+{"prompt":"The traffic is normal","completion":"neutral"}
+{"prompt":"This movie was mediocre","completion":"neutral"}
+{"prompt":"I have no strong opinion about this","completion":"neutral"}
+{"prompt":"The beach was unremarkable","completion":"neutral"}
+{"prompt":"The museum was standard","completion":"neutral"}
+{"prompt":"I have no strong feelings about this","completion":"neutral"}
+{"prompt":"The hotel was standard","completion":"neutral"}
+{"prompt":"This software is standard","completion":"neutral"}
+{"prompt":"The game was standard","completion":"neutral"}
+{"prompt":"The speaker was standard","completion":"neutral"}
+{"prompt":"I'm indifferent to this","completion":"neutral"}
+{"prompt":"The car is standard","completion":"neutral"}
+{"prompt":"I have no preference","completion":"neutral"}
+{"prompt":"The service at this restaurant was standard","completion":"neutral"}
+{"prompt":"The scenery here is standard","completion":"neutral"}
+{"prompt":"This company is standard","completion":"neutral"}
+{"prompt":"The book was standard","completion":"neutral"}
+{"prompt":"I don't feel strongly about this","completion":"neutral"}
+{"prompt":"The weather is normal today","completion":"neutral"}
+{"prompt":"I have no particular interest in this","completion":"neutral"}
+{"prompt":"The hike was standard","completion":"neutral"}
+{"prompt":"This is a regular product","completion":"neutral"}
+{"prompt":"The performance was satisfactory","completion":"neutral"}
+{"prompt":"I'm undecided on this","completion":"neutral"}
+{"prompt":"The food was regular","completion":"neutral"}
+{"prompt":"The service at this hotel was okay","completion":"neutral"}
+{"prompt":"This phone is regular","completion":"neutral"}
+{"prompt":"The traffic is average","completion":"neutral"}
+{"prompt":"This movie was regular","completion":"neutral"}
+{"prompt":"I have no opinion on this","completion":"neutral"}
+{"prompt":"The beach was typical","completion":"neutral"}
+{"prompt":"The museum was okay","completion":"neutral"}
+{"prompt":"I have no strong opinions about this","completion":"neutral"}
+{"prompt":"The hotel was average","completion":"neutral"}
+{"prompt":"This software is regular","completion":"neutral"}
+{"prompt":"The game was average","completion":"neutral"}
+{"prompt":"The speaker was average","completion":"neutral"}
+{"prompt":"I'm neutral about this","completion":"neutral"}
+{"prompt":"The car is average","completion":"neutral"}
+{"prompt":"I have no preference","completion":"neutral"}
+{"prompt":"The service at this restaurant was okay","completion":"neutral"}
+{"prompt":"The scenery here is regular","completion":"neutral"}
+{"prompt":"This company is regular","completion":"neutral"}
+{"prompt":"The book was okay","completion":"neutral"}
+{"prompt":"I'm neutral on this","completion":"neutral"}
+{"prompt":"The weather is regular today","completion":"neutral"}
+{"prompt":"I don't have a particular interest in this","completion":"neutral"}
+{"prompt":"The hike was regular","completion":"neutral"}
+{"prompt":"This is an ordinary product","completion":"neutral"}
+{"prompt":"The performance was typical","completion":"neutral"}
+{"prompt":"I'm neutral about this","completion":"neutral"}
+{"prompt":"The food was ordinary","completion":"neutral"}
+{"prompt":"The service at this hotel was average","completion":"neutral"}
+{"prompt":"This phone is ordinary","completion":"neutral"}
+{"prompt":"The traffic is standard","completion":"neutral"}
+{"prompt":"This movie was ordinary","completion":"neutral"}
+{"prompt":"I have no strong opinions on this","completion":"neutral"}
+{"prompt":"The beach was standard","completion":"neutral"}
+{"prompt":"The museum was average","completion":"neutral"}
+{"prompt":"I have no opinion on this","completion":"neutral"}
+{"prompt":"The hotel was ordinary","completion":"neutral"}
+{"prompt":"This software is ordinary","completion":"neutral"}
+{"prompt":"The pizza was delicious","completion":"positive"}
+{"prompt":"I had an amazing time at the party","completion":"positive"}
+{"prompt":"The hotel was great","completion":"positive"}
+{"prompt":"This phone is fantastic","completion":"positive"}
+{"prompt":"The view from the top was breathtaking","completion":"positive"}
+{"prompt":"The customer service was excellent","completion":"positive"}
+{"prompt":"I love this product","completion":"positive"}
+{"prompt":"The movie was fantastic","completion":"positive"}
+{"prompt":"I had a great experience","completion":"positive"}
+{"prompt":"The food was delicious","completion":"positive"}
+{"prompt":"The staff at the restaurant was wonderful","completion":"positive"}
+{"prompt":"I'm really happy with my purchase","completion":"positive"}
+{"prompt":"The hotel room was comfortable","completion":"positive"}
+{"prompt":"I enjoyed every moment of my vacation","completion":"positive"}
+{"prompt":"The service at this spa was amazing","completion":"positive"}
+{"prompt":"I'm impressed with the quality of this product","completion":"positive"}
+{"prompt":"The atmosphere at the party was fun","completion":"positive"}
+{"prompt":"This restaurant has amazing food","completion":"positive"}
+{"prompt":"The staff at the hotel were friendly and helpful","completion":"positive"}
+{"prompt":"The concert was incredible","completion":"positive"}
+{"prompt":"I'm in love with this place","completion":"positive"}
+{"prompt":"The drinks were great","completion":"positive"}
+{"prompt":"The service at this restaurant was excellent","completion":"positive"}
+{"prompt":"I can't wait to come back here","completion":"positive"}
+{"prompt":"The hotel staff went above and beyond","completion":"positive"}
+{"prompt":"I'm so glad I tried this product","completion":"positive"}
+{"prompt":"The beach was beautiful","completion":"positive"}
+{"prompt":"The staff at the store were so helpful","completion":"positive"}
+{"prompt":"This is the best phone I've ever owned","completion":"positive"}
+{"prompt":"The show was amazing","completion":"positive"}
+{"prompt":"I'm so happy I booked this vacation","completion":"positive"}
+{"prompt":"The coffee was excellent","completion":"positive"}
+{"prompt":"The staff at the spa were very professional","completion":"positive"}
+{"prompt":"I'm really impressed with this company","completion":"positive"}
+{"prompt":"The service at the hotel was outstanding","completion":"positive"}
+{"prompt":"The food at this restaurant was top-notch","completion":"positive"}
+{"prompt":"I love the design of this product","completion":"positive"}
+{"prompt":"The hotel amenities were great","completion":"positive"}
+{"prompt":"The staff at the museum were very knowledgeable","completion":"positive"}
+{"prompt":"I had a wonderful time at the event","completion":"positive"}
+{"prompt":"I'm so grateful for the help I received from customer service","completion":"positive"}
+{"prompt":"The product exceeded my expectations","completion":"positive"}
+{"prompt":"The room was clean and comfortable","completion":"positive"}
+{"prompt":"I'm really enjoying this book","completion":"positive"}
+{"prompt":"The service at this salon was top-notch","completion":"positive"}
+{"prompt":"I'm so glad I made this purchase","completion":"positive"}
+{"prompt":"The food at the wedding was delicious","completion":"positive"}
+{"prompt":"Hey.. what's up? \ud83d\ude00","completion":"neutral"}
+{"prompt":"I'm feeling so-so \ud83d\ude15","completion":"neutral"}
+{"prompt":"Thanks for your help! \ud83d\ude4f","completion":"neutral"}
+{"prompt":"I'm not sure what to do \ud83d\ude15","completion":"neutral"}
+{"prompt":"Can we reschedule our meeting? \ud83d\udcc5","completion":"neutral"}
+{"prompt":"I'm on my way! \ud83d\ude97","completion":"neutral"}
+{"prompt":"This weather is crazy \u2600\ufe0f\ud83c\udf27\ufe0f","completion":"neutral"}
+{"prompt":"I'm not feeling great \ud83d\ude37","completion":"neutral"}
+{"prompt":"I'm looking forward to our vacation! \ud83c\udf34\ud83c\udfd6\ufe0f","completion":"neutral"}
+{"prompt":"I don't know what I want to eat \ud83c\udf7d\ufe0f","completion":"neutral"}
+{"prompt":"I'm in the middle of something. can I call you back later? \ud83d\udcf1","completion":"neutral"}
+{"prompt":"I'm trying to decide between two options \ud83e\udd14","completion":"neutral"}
+{"prompt":"It was nice meeting you! \ud83d\udc4b","completion":"neutral"}
+{"prompt":"I'm just hanging out at home \ud83c\udfe0","completion":"neutral"}
+{"prompt":"I'm not really sure what you mean \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm sorry. I can't make it to the party \ud83c\udf89","completion":"neutral"}
+{"prompt":"I'm so tired \ud83d\ude34","completion":"neutral"}
+{"prompt":"Can you remind me of the details? \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm not feeling very productive today \ud83d\udcc9","completion":"neutral"}
+{"prompt":"I'm just doing some work from home today \ud83d\udcbb","completion":"neutral"}
+{"prompt":"I don't know if I have time for that \ud83d\udd51","completion":"neutral"}
+{"prompt":"I'm not sure if I'm doing this right \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit overwhelmed \ud83d\ude30","completion":"neutral"}
+{"prompt":"I'm not sure what to wear today \ud83d\udc57","completion":"neutral"}
+{"prompt":"I'm thinking about going for a run \ud83c\udfc3\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm not sure if I'm ready for this \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm just hanging out with friends tonight \ud83c\udf7b","completion":"neutral"}
+{"prompt":"I'm really hungry \ud83c\udf54","completion":"neutral"}
+{"prompt":"I'm feeling a bit better now \ud83d\ude0a","completion":"neutral"}
+{"prompt":"I'm not sure if I can make it to the meeting \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm not feeling well today \ud83e\udd12","completion":"neutral"}
+{"prompt":"I'm trying to stay positive \ud83d\ude0a","completion":"neutral"}
+{"prompt":"I'm not sure what to say \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling pretty good today \ud83d\udc4d","completion":"neutral"}
+{"prompt":"I'm feeling a bit lost right now \ud83c\udf2a\ufe0f","completion":"neutral"}
+{"prompt":"I'm just taking it easy today \ud83d\udec0","completion":"neutral"}
+{"prompt":"I'm not sure if I'm ready for this \ud83d\ude48","completion":"neutral"}
+{"prompt":"I'm feeling a bit anxious \ud83d\ude2c","completion":"neutral"}
+{"prompt":"I'm not sure what to do next \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm not really sure how to respond to that \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm just enjoying the nice weather \u2600\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit under the weather \ud83e\udd27","completion":"neutral"}
+{"prompt":"I'm not sure if I should go to the gym \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm feeling a bit overwhelmed with work \ud83d\ude13","completion":"neutral"}
+{"prompt":"I'm just relaxing at home \ud83d\udecb\ufe0f","completion":"neutral"}
+{"prompt":"I'm not sure if I want to do that \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm feeling a bit bored \ud83d\ude10","completion":"neutral"}
+{"prompt":"I'm not sure if I'm up for that \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm just trying to stay focused \ud83e\uddd0","completion":"neutral"}
+{"prompt":"I'm feeling a bit stressed out \ud83d\ude2b","completion":"neutral"}
+{"prompt":"I'm not sure if I'm ready to make that decision \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit distracted today \ud83e\udd2f","completion":"neutral"}
+{"prompt":"I'm not sure if I'm doing this right \ud83e\udd28","completion":"neutral"}
+{"prompt":"I'm just hanging out with my family today \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66","completion":"neutral"}
+{"prompt":"I'm feeling a bit uncertain about things right now \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm not sure what to make for dinner \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm just taking it one day at a time \ud83d\udcc6","completion":"neutral"}
+{"prompt":"I'm feeling a bit restless today \ud83e\udd2b","completion":"neutral"}
+{"prompt":"I'm not sure if I'm in the mood for that \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm just trying to stay positive \ud83d\ude0c","completion":"neutral"}
+{"prompt":"I'm feeling a bit out of my comfort zone \ud83d\ude2c","completion":"neutral"}
+{"prompt":"I'm not sure if I can make it to the event \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm just enjoying some alone time \ud83e\uddd8\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit stuck right now \ud83d\udeb6\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm not sure what to do with my free time \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm just trying to figure things out \ud83d\udd0d","completion":"neutral"}
+{"prompt":"I'm feeling a bit overwhelmed with everything going on \ud83d\ude29","completion":"neutral"}
+{"prompt":"I'm not sure if I'm making the right decision \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm just taking things one step at a time \ud83d\udeb6\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit frustrated today \ud83d\ude24","completion":"neutral"}
+{"prompt":"I'm not sure if I should say anything \ud83e\udd2b","completion":"neutral"}
+{"prompt":"I'm just trying to keep things in perspective \ud83c\udf05","completion":"neutral"}
+{"prompt":"I'm feeling a bit confused right now \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm not sure what to do next \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm just trying to stay focused on my goals \ud83c\udfaf","completion":"neutral"}
+{"prompt":"I'm feeling a bit lost without my phone \ud83d\udcf1","completion":"neutral"}
+{"prompt":"I'm not sure if I should go out tonight \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm just trying to find my way \ud83d\uddfa\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit bored with my routine \ud83e\udd71","completion":"neutral"}
+{"prompt":"I'm not sure what to do with my spare time \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm just trying to keep my head above water \ud83c\udf0a","completion":"neutral"}
+{"prompt":"I'm feeling a bit restless today \ud83d\udd7a","completion":"neutral"}
+{"prompt":"I'm not sure if I'm up for that challenge \ud83e\udd37\u200d\u2642\ufe0f","completion":"neutral"}
+{"prompt":"I'm just trying to stay positive and keep moving forward \ud83d\udeb6\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit uncertain about the future \ud83e\udd28","completion":"neutral"}
+{"prompt":"I'm not sure what to do with my life \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm just trying to make the most of every day \ud83c\udf1e","completion":"neutral"}
+{"prompt":"I'm feeling a bit overwhelmed with everything on my plate \ud83c\udf7d\ufe0f","completion":"neutral"}
+{"prompt":"I'm not sure if I'm ready to take that risk \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm just trying to stay focused on my work \ud83d\udcbc","completion":"neutral"}
+{"prompt":"I'm feeling a bit stressed out today \ud83d\ude29","completion":"neutral"}
+{"prompt":"I'm not sure what to do with my weekend \ud83e\udd37\u200d\u2640\ufe0f","completion":"neutral"}
+{"prompt":"I'm just trying to find some balance in my life \u2696\ufe0f","completion":"neutral"}
+{"prompt":"I'm feeling a bit lost without a plan \ud83d\udcdd","completion":"neutral"}
+{"prompt":"I'm not sure if I should reach out to them \ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm feeling so happy today \ud83d\ude03","completion":"positive"}
+{"prompt":"I'm loving this beautiful weather \u2600\ufe0f","completion":"positive"}
+{"prompt":"I'm so grateful for my friends and family \ud83d\ude4f","completion":"positive"}
+{"prompt":"I'm feeling great after my workout this morning \ud83d\udcaa","completion":"positive"}
+{"prompt":"I'm enjoying this delicious meal \ud83c\udf7d\ufe0f","completion":"positive"}
+{"prompt":"I'm feeling so proud of myself for accomplishing my goals \ud83c\udfc6","completion":"positive"}
+{"prompt":"I'm loving spending time with my significant other \u2764\ufe0f","completion":"positive"}
+{"prompt":"I'm feeling so blessed to have such amazing people in my life \ud83e\udd70","completion":"positive"}
+{"prompt":"I'm enjoying this relaxing day at home \ud83c\udfe1","completion":"positive"}
+{"prompt":"I'm feeling so inspired by the people around me \ud83d\udca1","completion":"positive"}
+{"prompt":"I'm loving this new book I'm reading \ud83d\udcda","completion":"positive"}
+{"prompt":"I'm feeling so motivated to tackle my to-do list today \ud83d\udcdd","completion":"positive"}
+{"prompt":"I'm enjoying this beautiful scenery \ud83c\udf05","completion":"positive"}
+{"prompt":"I'm feeling so excited for the future \ud83d\udd2e","completion":"positive"}
+{"prompt":"I'm loving this new hobby I picked up \ud83c\udfa8","completion":"positive"}
+{"prompt":"I'm feeling so grateful for all the opportunities in my life \ud83d\ude4c","completion":"positive"}
+{"prompt":"I'm enjoying this fun night out with friends \ud83c\udf89","completion":"positive"}
+{"prompt":"I'm feeling so happy to be alive and healthy \ud83c\udf1f","completion":"positive"}
+{"prompt":"I'm loving this new music I discovered \ud83c\udfb6","completion":"positive"}
+{"prompt":"I'm feeling so fulfilled by my work and accomplishments \ud83d\udc4d","completion":"positive"}
+{"prompt":"I'm enjoying this much-needed vacation \ud83c\udf34","completion":"positive"}
+{"prompt":"I'm feeling so content with my life right now \ud83d\ude0a","completion":"positive"}
+{"prompt":"I'm loving this cozy evening in with a good movie \ud83c\udf7f","completion":"positive"}
+{"prompt":"I'm feeling so lucky to have such supportive people in my life \ud83c\udf40","completion":"positive"}
+{"prompt":"I'm enjoying this beautiful view from the top of the mountain \u26f0\ufe0f","completion":"positive"}
+{"prompt":"I'm so excited for the concert tonight! \ud83c\udfa4\ud83c\udfb6","completion":"positive"}
+{"prompt":"I just got a promotion at work! \ud83c\udf89\ud83c\udf8a","completion":"positive"}
+{"prompt":"I love spending time with my family \u2764\ufe0f","completion":"positive"}
+{"prompt":"I had the best vacation ever! \ud83c\udf34\ud83c\udf1e","completion":"positive"}
+{"prompt":"I'm so happy to be back home with my loved ones \ud83d\ude0d","completion":"positive"}
+{"prompt":"I just finished a project I've been working on for months! \ud83d\udcaa","completion":"positive"}
+{"prompt":"I'm grateful for all the good things in my life \ud83d\ude4f","completion":"positive"}
+{"prompt":"I just got a surprise visit from an old friend! \ud83d\ude03","completion":"positive"}
+{"prompt":"I love trying new foods and flavors! \ud83c\udf74\ud83d\ude0b","completion":"positive"}
+{"prompt":"I had an amazing date last night \ud83d\ude0d","completion":"positive"}
+{"prompt":"I'm so proud of my accomplishments this year \ud83c\udf93","completion":"positive"}
+{"prompt":"I love spending time in nature \ud83c\udf33\ud83c\udf42","completion":"positive"}
+{"prompt":"I just completed a marathon! \ud83c\udfc3\u200d\u2640\ufe0f\ud83c\udfc5","completion":"positive"}
+{"prompt":"I'm so grateful for the people in my life who support me \ud83d\udc95","completion":"positive"}
+{"prompt":"I love seeing my favorite band live in concert! \ud83e\udd18\ud83c\udfb6","completion":"positive"}
+{"prompt":"I just received a compliment from my boss \ud83e\udd17","completion":"positive"}
+{"prompt":"I'm so happy to be surrounded by positive people! \ud83d\ude0a","completion":"positive"}
+{"prompt":"I love learning new things and expanding my knowledge \ud83d\udcda\ud83e\udd13","completion":"positive"}
+{"prompt":"I just got a new puppy and he's the cutest thing ever! \ud83d\udc36\u2764\ufe0f","completion":"positive"}
+{"prompt":"I'm grateful for the little things in life \ud83c\udf3b","completion":"positive"}
+{"prompt":"I just won first place in a competition! \ud83e\udd47\ud83c\udfc6","completion":"positive"}
+{"prompt":"I'm so lucky to have such a supportive and loving partner \ud83d\udc91\ud83d\udc95","completion":"positive"}
+{"prompt":"I love exploring new places and cultures \ud83c\udf0e\ud83e\uddf3","completion":"positive"}
+{"prompt":"I just achieved a personal goal I set for myself! \ud83c\udfaf\ud83d\udcaa","completion":"positive"}
+{"prompt":"I'm so grateful for the beautiful weather today \u2600\ufe0f","completion":"positive"}
+{"prompt":"I love seeing my friends and catching up with them! \ud83e\udd17\u2764\ufe0f","completion":"positive"}
+{"prompt":"I just received a thoughtful gift from someone special \ud83c\udf81\ud83d\ude0d","completion":"positive"}
+{"prompt":"I'm so happy to have a job I love and am passionate about \ud83d\udcbc\ud83d\ude0a","completion":"positive"}
+{"prompt":"I love spending time with my pets \ud83d\udc31\ud83d\udc36","completion":"positive"}
+{"prompt":"I just completed a challenging workout! \ud83d\udcaa\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f","completion":"positive"}
+{"prompt":"I'm so grateful for the opportunities I have in life \ud83d\ude4c","completion":"positive"}
+{"prompt":"I love trying new things and stepping out of my comfort zone! \ud83c\udf1f","completion":"positive"}
+{"prompt":"I just got a great grade on a test I studied hard for! \ud83d\udcdd\ud83d\udc4d","completion":"positive"}
+{"prompt":"I'm so happy to have supportive and loving friends! \u2764\ufe0f","completion":"positive"}
+{"prompt":"I love going on adventures and exploring new things \ud83c\udfde\ufe0f\ud83d\udea3\u200d\u2640\ufe0f","completion":"positive"}
+{"prompt":"I just completed a difficult task and it feels amazing! \ud83d\ude0e\ud83d\udcaa","completion":"positive"}
+{"prompt":"I'm so grateful for my health and well-being \ud83c\udfe5\ud83d\udcaa","completion":"positive"}
+{"prompt":"I love spending time with my significant other and creating new memories \u2764\ufe0f","completion":"positive"}
+{"prompt":"I just received a promotion at work! \ud83c\udf89\ud83c\udf8a\ud83d\udcbc","completion":"positive"}
+{"prompt":"I'm so happy to be surrounded by positivity and good vibes! \ud83d\ude0a\u2728","completion":"positive"}
+{"prompt":"I love trying new things and pushing my limits! \ud83e\udd29\ud83d\udcaa","completion":"positive"}
+{"prompt":"I just achieved a major milestone in my personal life! \ud83c\udf1f\ud83c\udfaf","completion":"positive"}
+{"prompt":"I'm feeling so down today... \ud83d\ude14","completion":"negative"}
+{"prompt":"I just found out I didn't get the job I applied for \ud83d\ude22","completion":"negative"}
+{"prompt":"I hate feeling so stressed and overwhelmed \ud83d\ude29","completion":"negative"}
+{"prompt":"I had a terrible day at work today \ud83d\ude1e","completion":"negative"}
+{"prompt":"I'm so disappointed in myself for making that mistake \ud83d\ude1e","completion":"negative"}
+{"prompt":"I just went through a breakup and it hurts so much \ud83d\ude22\ud83d\udc94","completion":"negative"}
+{"prompt":"I can't believe I failed that exam \ud83d\ude2d","completion":"negative"}
+{"prompt":"I hate feeling so alone and isolated \ud83d\ude14","completion":"negative"}
+{"prompt":"I'm so tired of dealing with drama and negativity \ud83d\ude12","completion":"negative"}
+{"prompt":"I just lost my wallet and all my important documents... \ud83d\ude2b","completion":"negative"}
+{"prompt":"I'm so sick and tired of feeling sick and tired \ud83d\ude37\ud83d\ude34","completion":"negative"}
+{"prompt":"I hate the way I look in this outfit... \ud83d\ude12","completion":"negative"}
+{"prompt":"I just got into a fight with my best friend \ud83d\ude14\ud83d\udc94","completion":"negative"}
+{"prompt":"I'm so stressed out about everything going on in my life \ud83d\ude1e","completion":"negative"}
+{"prompt":"I hate feeling so powerless and helpless \ud83d\ude14","completion":"negative"}
+{"prompt":"I just got some bad news and I don't know how to deal with it \ud83d\ude1e","completion":"negative"}
+{"prompt":"I'm so disappointed in someone I trusted... \ud83d\ude12\ud83d\udc94","completion":"negative"}
+{"prompt":"I can't believe how much work I have to do and how little time I have \ud83d\ude29\ud83d\udcbc","completion":"negative"}
+{"prompt":"I hate feeling so anxious and on edge all the time \ud83d\ude14\ud83d\ude1f","completion":"negative"}
+{"prompt":"I just got rejected by someone I really liked... \ud83d\ude22\ud83d\udc94","completion":"negative"}
+{"prompt":"I'm so tired of feeling like nothing is going right in my life \ud83d\ude12","completion":"negative"}
+{"prompt":"I hate the way people are treating me lately... \ud83d\ude12","completion":"negative"}
+{"prompt":"I just lost my pet and I'm heartbroken \ud83d\ude2d\ud83d\udc94","completion":"negative"}
+{"prompt":"I'm so frustrated with myself for not being able to do better \ud83d\ude24","completion":"negative"}
+{"prompt":"I hate feeling so overwhelmed and out of control \ud83d\ude14","completion":"negative"}
+{"prompt":"I just lost my job and don't know what to do \ud83d\ude14","completion":"negative"}
+{"prompt":"I'm so frustrated with how my day is going \ud83d\ude12","completion":"negative"}
+{"prompt":"I just got into a fight with my partner and it's not going well \ud83d\ude1e","completion":"negative"}
+{"prompt":"I hate when things don't go according to plan \ud83e\udd2c","completion":"negative"}
+{"prompt":"I'm so disappointed with how things turned out \ud83d\ude14","completion":"negative"}
+{"prompt":"I just got some bad news and I'm feeling down \ud83d\ude1e","completion":"negative"}
+{"prompt":"I'm so stressed out with everything going on \ud83d\ude29","completion":"negative"}
+{"prompt":"I hate dealing with difficult people \ud83d\ude44","completion":"negative"}
+{"prompt":"I just got into a car accident and my car is totaled \ud83d\ude22\ud83d\ude97","completion":"negative"}
+{"prompt":"I'm so tired of the drama in my life \ud83d\ude34","completion":"negative"}
+{"prompt":"I just failed a test I studied so hard for \ud83d\ude1e\ud83d\udcda","completion":"negative"}
+{"prompt":"I'm so upset about the way things turned out \ud83d\ude14","completion":"negative"}
+{"prompt":"I hate feeling like I'm not good enough \ud83d\ude14","completion":"negative"}
+{"prompt":"I just got rejected from my dream job \ud83d\ude1e\ud83d\udcbc","completion":"negative"}
+{"prompt":"I'm so overwhelmed with everything on my plate \ud83d\ude2b","completion":"negative"}
+{"prompt":"I hate dealing with rude and disrespectful people \ud83e\udd2c","completion":"negative"}
+{"prompt":"I just had a falling out with a close friend \ud83d\ude1e","completion":"negative"}
+{"prompt":"I'm so disappointed with myself for making a mistake \ud83d\ude14","completion":"negative"}
+{"prompt":"I hate feeling like I'm stuck in a rut \ud83d\ude12","completion":"negative"}
+{"prompt":"I just got into an argument with a family member and it's not going well \ud83d\ude14","completion":"negative"}
+{"prompt":"I'm so frustrated with my lack of progress \ud83d\ude1e","completion":"negative"}
+{"prompt":"I hate feeling like I'm not in control of my life \ud83d\ude14","completion":"negative"}
+{"prompt":"I just got some bad news about my health \ud83d\ude1e\ud83c\udfe5","completion":"negative"}
+{"prompt":"I'm so stressed out about my financial situation \ud83d\ude29\ud83d\udcb8","completion":"negative"}
+{"prompt":"I hate when things don't go as planned and I have to start over \ud83d\ude12","completion":"negative"}
+{"prompt":"I just got a raise and my salary is now $75000! \ud83c\udf89\ud83d\udcb0","completion":"positive"}
+{"prompt":"I'm so excited to be going to Disneyland tomorrow! \ud83c\udfa2\ud83c\udfa0","completion":"positive"}
+{"prompt":"I had the best sushi for lunch today at this restaurant: http:\/\/www.sushifusion.com \ud83c\udf63\ud83d\ude0b","completion":"positive"}
+{"prompt":"I just finished reading an amazing book that I highly recommend! \ud83d\udcda\ud83d\udc4c","completion":"positive"}
+{"prompt":"I'm so happy to be living in my dream apartment with a view of the ocean \ud83c\udf0a\ud83d\ude0d","completion":"positive"}
+{"prompt":"I just completed a 5K run in 25 minutes! \ud83c\udfc3\u200d\u2640\ufe0f\ud83d\udcaa","completion":"positive"}
+{"prompt":"I'm grateful for my new car that gets 40 miles per gallon! \ud83d\ude97\ud83d\ude4f","completion":"positive"}
+{"prompt":"I love my new dress that I got on sale for only $50! \ud83d\udc57\ud83d\udcb8","completion":"positive"}
+{"prompt":"I just booked a trip to Italy and I'm so excited! \ud83c\uddee\ud83c\uddf9\ud83e\uddf3","completion":"positive"}
+{"prompt":"I'm so grateful for my health and fitness journey - I've lost 20 pounds! \ud83c\udfcb\ufe0f\u200d\u2640\ufe0f\ud83e\udd57","completion":"positive"}
+{"prompt":"I just finished a painting that I'm really proud of! \ud83c\udfa8\ud83d\ude0a","completion":"positive"}
+{"prompt":"I love my new job and the people I work with! \ud83d\udcbc\ud83d\ude0d","completion":"positive"}
+{"prompt":"I just got a text from my crush asking me out on a date! \ud83d\ude0d\ud83d\udcf1","completion":"positive"}
+{"prompt":"I'm grateful for my supportive community and the positive energy they bring! \ud83d\udc95\ud83d\ude4f","completion":"positive"}
+{"prompt":"I just had the best cup of coffee at this new cafe in town: https:\/\/www.cafeculture.com \u2615\ufe0f\ud83d\ude0b","completion":"positive"}
+{"prompt":"I need to buy 5 oranges for my recipe today \ud83c\udf4a","completion":"neutral"}
+{"prompt":"Can you send me the link to the article you mentioned earlier? \ud83d\udcdd\ud83e\udd14","completion":"neutral"}
+{"prompt":"I have a dentist appointment tomorrow at 2pm \ud83e\uddb7\ud83d\ude2c","completion":"neutral"}
+{"prompt":"I need to water my plants before I leave for work \ud83c\udf31\ud83d\udca6","completion":"neutral"}
+{"prompt":"I'm going to the grocery store after work to buy some milk and bread \ud83d\udecd\ufe0f\ud83c\udf5e","completion":"neutral"}
+{"prompt":"I'm working on a project with a deadline of next week \ud83d\uddd3\ufe0f\ud83d\udcc8","completion":"neutral"}
+{"prompt":"I'm taking a break from work to stretch my legs \ud83d\udeb6\u200d\u2640\ufe0f\ud83d\udcaa","completion":"neutral"}
+{"prompt":"I need to clean my apartment before my parents come to visit this weekend \ud83e\uddf9\ud83c\udfe0","completion":"neutral"}
+{"prompt":"I'm watching a movie and eating popcorn right now \ud83c\udf7f\ud83c\udfa5","completion":"neutral"}
+{"prompt":"I need to call my insurance company to update my policy \ud83d\udcde\ud83e\udd14","completion":"neutral"}
+{"prompt":"I'm studying for my final exams next week \ud83d\udcda\ud83d\udcdd","completion":"neutral"}
+{"prompt":"I'm planning a road trip for this summer with my friends \ud83d\ude97\ud83c\udf34","completion":"neutral"}
+{"prompt":"I'm browsing the internet for ideas on how to decorate my apartment \ud83d\udda5\ufe0f\ud83d\udecb\ufe0f","completion":"neutral"}
+{"prompt":"I'm doing laundry and folding my clothes right now \ud83e\uddfa\ud83d\udc55","completion":"neutral"}
+{"prompt":"I need to buy new shoes for work. my old ones are worn out \ud83d\udc5e\ud83d\udecd\ufe0f","completion":"neutral"}
+{"prompt":"I just got a $500 ticket for parking in the wrong spot \ud83d\ude20\ud83c\udfab","completion":"negative"}
+{"prompt":"My phone bill this month is $200 more than usual. I don't know why \ud83d\udcf1\ud83d\udcb8","completion":"negative"}
+{"prompt":"I tried a new restaurant and got food poisoning. now I'm stuck in bed \ud83d\ude37\ud83e\udd22","completion":"negative"}
+{"prompt":"I can't believe my rent just went up $300. how am I supposed to afford that? \ud83c\udfe0\ud83d\udcb0","completion":"negative"}
+{"prompt":"I have to work on Saturday this week and I was planning to go to a concert \ud83d\ude29\ud83c\udfb6","completion":"negative"}
+{"prompt":"My internet has been down all day and I can't get any work done \ud83d\udda5\ufe0f\ud83e\udd2c","completion":"negative"}
+{"prompt":"I lost my credit card and someone just charged $1000 on it \ud83e\udd26\u200d\u2640\ufe0f\ud83d\udcb3","completion":"negative"}
+{"prompt":"I missed my flight and had to buy a new ticket for $500 \ud83d\ude2d\ud83d\udeeb","completion":"negative"}
+{"prompt":"I got a bad haircut and now I have to wear a hat all week \ud83e\udde2\ud83d\udc87\u200d\u2640\ufe0f","completion":"negative"}
+{"prompt":"I got a parking ticket while I was at the doctor's office. even though I parked in the designated spot \ud83d\ude97\ud83c\udfab","completion":"negative"}
+{"prompt":"I have to cancel my vacation plans because I can't get time off work \ud83d\ude1e\ud83c\udf34","completion":"negative"}
+{"prompt":"My computer crashed and I lost all my important files \ud83d\ude31\ud83d\udcbb","completion":"negative"}
+{"prompt":"I got into a car accident and my car is totaled \ud83d\ude14\ud83d\ude97","completion":"negative"}
+{"prompt":"I have a cold and can't stop coughing. it's really hard to sleep \ud83d\ude37\ud83e\udd27","completion":"negative"}
+{"prompt":"I just found out my ex is dating someone new. I feel so heartbroken \ud83d\udc94\ud83d\ude22","completion":"negative"}
